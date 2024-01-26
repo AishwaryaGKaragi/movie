@@ -1,0 +1,14 @@
+h1{
+    background-color: aquamarine;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    color: palevioletred;
+}
+body{
+    margin-top: auto;
+    background-color: bisque;
+    color: blueviolet;
+}
+
+
+
+
